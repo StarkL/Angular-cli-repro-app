@@ -1,4 +1,6 @@
 the step :
+
+```
 	ng version
 	_                      _                 ____ _     ___
 	/ \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
@@ -94,3 +96,4 @@ the step :
 
 	starkL@BBen MINGW64 /d/document/IT/pf-Nokia/2-demo/angular-cli/repro-app (master)
 	$
+```
